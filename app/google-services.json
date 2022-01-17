@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434406741473",
+    "project_id": "samsungnotes4",
+    "storage_bucket": "samsungnotes4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434406741473:android:f8636f78c542be6d53aea0",
+        "android_client_info": {
+          "package_name": "com.example.samsungnotes4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434406741473-3c6o99ciedqrnd8o7rn11vb4onn860rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qzgq_XYj2SepKyP1xdo7Gzi3Wz4GkOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434406741473-3c6o99ciedqrnd8o7rn11vb4onn860rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
